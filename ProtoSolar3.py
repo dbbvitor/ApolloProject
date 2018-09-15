@@ -1,4 +1,4 @@
-# Calculo Solar
+# Calculo solar
 import numpy as np
 
 def Declinacao(n):
